@@ -41,6 +41,7 @@ body {
   top: 40px;
   left: 40px;
 }
+
 .logo {
   height: 35px;
 }
@@ -100,6 +101,7 @@ body {
     transform: translate(0);
   }
 }
+
 @keyframes moveInRight {
   0% {
     opacity: 0;
